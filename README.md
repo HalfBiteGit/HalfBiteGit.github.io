@@ -1,4 +1,4 @@
 ## Welcome to HalfBite
 
-Please visit us on our website: https://www.halfbite.io
+Please visit our [website](https://www.halfbite.io).
 
