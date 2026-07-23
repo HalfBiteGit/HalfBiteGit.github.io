@@ -3489,6 +3489,7 @@ applovin.com, c4a8d77911a0af8c83c4227beea0895a, DIRECT
 google.com, pub-9229407185153181, RESELLER
 
 google.com, pub-7685139688912749, DIRECT, f08c47fec0942fa0
+google.com, pub-7776255597215901, DIRECT, f08c47fec0942fa0
 
 #Halagame
 yandex.com, 98715109, DIRECT
