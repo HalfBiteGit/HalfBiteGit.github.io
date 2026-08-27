@@ -2859,6 +2859,7 @@ managerdomain=bidmachine.io
 #Google
 google.com,pub-7279990999620104,DIRECT,f08c47fec0942fa0
 
+google.com, pub-7776255597215901, DIRECT, f08c47fec0942fa0
 
 #Reseller
 conversantmedia.com,100457,RESELLER,03113cd04947736d
