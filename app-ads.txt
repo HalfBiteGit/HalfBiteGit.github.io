@@ -1,3 +1,5 @@
+vungle.com, 6ab92e508770bfafcf0e7ceb, DIRECT, c107d686becd2d77
+
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 facebook.com, 911489465574629, DIRECT, c3e20eee3f780d68
